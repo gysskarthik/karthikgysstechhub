@@ -1,5 +1,5 @@
 gysskk
 ======
-# ProfessorHub
-Clarify the student's doubts
-https://gysskarthik.github.io/ProfessorHub/
+# karthikgysstechhub
+My Resume / Work
+http://gysskarthik.github.io/karthikgysstechhub/
